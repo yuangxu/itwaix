@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Yuang Xu.
-- 🎓 **EECS PhD Student @ UC Merced** | M.S. in Computer Science @ USC
+- 🎓 M.S. in Computer Science @ USC
 - 🌱 **Research Focus**: MLSys, Compiler Optimization & HPC
 - 🚀 **Goal**: Bridging the gap between hardware and deep learning algorithms.
 - ✍️ **Blog**: [yuangxu.com](https://yuangxu.com) - 📫 **Contact**: Reach out for research collaborations or technical chats!
